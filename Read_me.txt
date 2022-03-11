@@ -1,3 +1,6 @@
+Cerinta:
+https://ocw.cs.pub.ro/courses/poo-is/tema2
+
 Siniuc_Robert-Valentin-321AA
     
     -Constructori/Destructor ==> 99% goale , considerand ca nu am vreun char nu prea am ce sa initializez sau sa sterg 
